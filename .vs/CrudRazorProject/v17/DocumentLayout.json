@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Roy\\Desktop\\C#\\CrudRazorProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{105AF97E-0E3F-4AC8-B998-D62C0D73F924}|CrudRazorProject\\CrudRazorProject.csproj|c:\\users\\roy\\desktop\\c#\\crudrazorproject\\crudrazorproject\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{105AF97E-0E3F-4AC8-B998-D62C0D73F924}|CrudRazorProject\\CrudRazorProject.csproj|solutionrelative:crudrazorproject\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{105AF97E-0E3F-4AC8-B998-D62C0D73F924}|CrudRazorProject\\CrudRazorProject.csproj|c:\\users\\roy\\desktop\\c#\\crudrazorproject\\crudrazorproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{105AF97E-0E3F-4AC8-B998-D62C0D73F924}|CrudRazorProject\\CrudRazorProject.csproj|solutionrelative:crudrazorproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{105AF97E-0E3F-4AC8-B998-D62C0D73F924}|CrudRazorProject\\CrudRazorProject.csproj|c:\\users\\roy\\desktop\\c#\\crudrazorproject\\crudrazorproject\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{105AF97E-0E3F-4AC8-B998-D62C0D73F924}|CrudRazorProject\\CrudRazorProject.csproj|solutionrelative:crudrazorproject\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{105AF97E-0E3F-4AC8-B998-D62C0D73F924}|CrudRazorProject\\CrudRazorProject.csproj|c:\\users\\roy\\desktop\\c#\\crudrazorproject\\crudrazorproject\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{105AF97E-0E3F-4AC8-B998-D62C0D73F924}|CrudRazorProject\\CrudRazorProject.csproj|solutionrelative:crudrazorproject\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{105AF97E-0E3F-4AC8-B998-D62C0D73F924}|CrudRazorProject\\CrudRazorProject.csproj|c:\\users\\roy\\desktop\\c#\\crudrazorproject\\crudrazorproject\\pages\\products\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{105AF97E-0E3F-4AC8-B998-D62C0D73F924}|CrudRazorProject\\CrudRazorProject.csproj|solutionrelative:crudrazorproject\\pages\\products\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{105AF97E-0E3F-4AC8-B998-D62C0D73F924}|CrudRazorProject\\CrudRazorProject.csproj|c:\\users\\roy\\desktop\\c#\\crudrazorproject\\crudrazorproject\\pages\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{105AF97E-0E3F-4AC8-B998-D62C0D73F924}|CrudRazorProject\\CrudRazorProject.csproj|solutionrelative:crudrazorproject\\pages\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{105AF97E-0E3F-4AC8-B998-D62C0D73F924}|CrudRazorProject\\CrudRazorProject.csproj|c:\\users\\roy\\desktop\\c#\\crudrazorproject\\crudrazorproject\\pages\\products\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{105AF97E-0E3F-4AC8-B998-D62C0D73F924}|CrudRazorProject\\CrudRazorProject.csproj|solutionrelative:crudrazorproject\\pages\\products\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{105AF97E-0E3F-4AC8-B998-D62C0D73F924}|CrudRazorProject\\CrudRazorProject.csproj|c:\\users\\roy\\desktop\\c#\\crudrazorproject\\crudrazorproject\\pages\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{105AF97E-0E3F-4AC8-B998-D62C0D73F924}|CrudRazorProject\\CrudRazorProject.csproj|solutionrelative:crudrazorproject\\pages\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{105AF97E-0E3F-4AC8-B998-D62C0D73F924}|CrudRazorProject\\CrudRazorProject.csproj|c:\\users\\roy\\desktop\\c#\\crudrazorproject\\crudrazorproject\\pages\\products\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{105AF97E-0E3F-4AC8-B998-D62C0D73F924}|CrudRazorProject\\CrudRazorProject.csproj|solutionrelative:crudrazorproject\\pages\\products\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{105AF97E-0E3F-4AC8-B998-D62C0D73F924}|CrudRazorProject\\CrudRazorProject.csproj|c:\\users\\roy\\desktop\\c#\\crudrazorproject\\crudrazorproject\\pages\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{105AF97E-0E3F-4AC8-B998-D62C0D73F924}|CrudRazorProject\\CrudRazorProject.csproj|solutionrelative:crudrazorproject\\pages\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{105AF97E-0E3F-4AC8-B998-D62C0D73F924}|CrudRazorProject\\CrudRazorProject.csproj|c:\\users\\roy\\desktop\\c#\\crudrazorproject\\crudrazorproject\\pages\\products\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{105AF97E-0E3F-4AC8-B998-D62C0D73F924}|CrudRazorProject\\CrudRazorProject.csproj|solutionrelative:crudrazorproject\\pages\\products\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{105AF97E-0E3F-4AC8-B998-D62C0D73F924}|CrudRazorProject\\CrudRazorProject.csproj|c:\\users\\roy\\desktop\\c#\\crudrazorproject\\crudrazorproject\\pages\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{105AF97E-0E3F-4AC8-B998-D62C0D73F924}|CrudRazorProject\\CrudRazorProject.csproj|solutionrelative:crudrazorproject\\pages\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{105AF97E-0E3F-4AC8-B998-D62C0D73F924}|CrudRazorProject\\CrudRazorProject.csproj|c:\\users\\roy\\desktop\\c#\\crudrazorproject\\crudrazorproject\\pages\\products\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{105AF97E-0E3F-4AC8-B998-D62C0D73F924}|CrudRazorProject\\CrudRazorProject.csproj|solutionrelative:crudrazorproject\\pages\\products\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{105AF97E-0E3F-4AC8-B998-D62C0D73F924}|CrudRazorProject\\CrudRazorProject.csproj|c:\\users\\roy\\desktop\\c#\\crudrazorproject\\crudrazorproject\\pages\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{105AF97E-0E3F-4AC8-B998-D62C0D73F924}|CrudRazorProject\\CrudRazorProject.csproj|solutionrelative:crudrazorproject\\pages\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{105AF97E-0E3F-4AC8-B998-D62C0D73F924}|CrudRazorProject\\CrudRazorProject.csproj|c:\\users\\roy\\desktop\\c#\\crudrazorproject\\crudrazorproject\\crudrazorproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{105AF97E-0E3F-4AC8-B998-D62C0D73F924}|CrudRazorProject\\CrudRazorProject.csproj|solutionrelative:crudrazorproject\\crudrazorproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{105AF97E-0E3F-4AC8-B998-D62C0D73F924}|CrudRazorProject\\CrudRazorProject.csproj|c:\\users\\roy\\desktop\\c#\\crudrazorproject\\crudrazorproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{105AF97E-0E3F-4AC8-B998-D62C0D73F924}|CrudRazorProject\\CrudRazorProject.csproj|solutionrelative:crudrazorproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{105AF97E-0E3F-4AC8-B998-D62C0D73F924}|CrudRazorProject\\CrudRazorProject.csproj|c:\\users\\roy\\desktop\\c#\\crudrazorproject\\crudrazorproject\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{105AF97E-0E3F-4AC8-B998-D62C0D73F924}|CrudRazorProject\\CrudRazorProject.csproj|solutionrelative:crudrazorproject\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Roy\\Desktop\\C#\\CrudRazorProject\\CrudRazorProject\\Pages\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "CrudRazorProject\\Pages\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Roy\\Desktop\\C#\\CrudRazorProject\\CrudRazorProject\\Pages\\Products\\Index.cshtml",
+              "RelativeToolTip": "CrudRazorProject\\Pages\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T06:37:33.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Roy\\Desktop\\C#\\CrudRazorProject\\CrudRazorProject\\Pages\\Products\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "CrudRazorProject\\Pages\\Products\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\Roy\\Desktop\\C#\\CrudRazorProject\\CrudRazorProject\\Pages\\Products\\Delete.cshtml.cs",
+              "RelativeToolTip": "CrudRazorProject\\Pages\\Products\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T06:37:33.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Roy\\Desktop\\C#\\CrudRazorProject\\CrudRazorProject\\Pages\\Products\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CrudRazorProject\\Pages\\Products\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Roy\\Desktop\\C#\\CrudRazorProject\\CrudRazorProject\\Pages\\Products\\Delete.cshtml",
+              "RelativeToolTip": "CrudRazorProject\\Pages\\Products\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T06:37:33.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Roy\\Desktop\\C#\\CrudRazorProject\\CrudRazorProject\\Pages\\Products\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "CrudRazorProject\\Pages\\Products\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\Roy\\Desktop\\C#\\CrudRazorProject\\CrudRazorProject\\Pages\\Products\\Details.cshtml.cs",
+              "RelativeToolTip": "CrudRazorProject\\Pages\\Products\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T06:37:33.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Roy\\Desktop\\C#\\CrudRazorProject\\CrudRazorProject\\Program.cs",
+              "RelativeDocumentMoniker": "CrudRazorProject\\Program.cs",
+              "ToolTip": "C:\\Users\\Roy\\Desktop\\C#\\CrudRazorProject\\CrudRazorProject\\Program.cs",
+              "RelativeToolTip": "CrudRazorProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T06:21:46.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Roy\\Desktop\\C#\\CrudRazorProject\\CrudRazorProject\\Pages\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "CrudRazorProject\\Pages\\Products\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Roy\\Desktop\\C#\\CrudRazorProject\\CrudRazorProject\\Pages\\Products\\Details.cshtml",
+              "RelativeToolTip": "CrudRazorProject\\Pages\\Products\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T06:37:33.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Roy\\Desktop\\C#\\CrudRazorProject\\CrudRazorProject\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CrudRazorProject\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Roy\\Desktop\\C#\\CrudRazorProject\\CrudRazorProject\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CrudRazorProject\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T06:20:58.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Roy\\Desktop\\C#\\CrudRazorProject\\CrudRazorProject\\Pages\\Products\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "CrudRazorProject\\Pages\\Products\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Roy\\Desktop\\C#\\CrudRazorProject\\CrudRazorProject\\Pages\\Products\\Index.cshtml.cs",
+              "RelativeToolTip": "CrudRazorProject\\Pages\\Products\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T06:37:33.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Roy\\Desktop\\C#\\CrudRazorProject\\CrudRazorProject\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "CrudRazorProject\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Roy\\Desktop\\C#\\CrudRazorProject\\CrudRazorProject\\Pages\\Index.cshtml",
+              "RelativeToolTip": "CrudRazorProject\\Pages\\Index.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAwwDMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T06:39:14.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Roy\\Desktop\\C#\\CrudRazorProject\\CrudRazorProject\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CrudRazorProject\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Roy\\Desktop\\C#\\CrudRazorProject\\CrudRazorProject\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CrudRazorProject\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwCAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T06:40:07.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Roy\\Desktop\\C#\\CrudRazorProject\\CrudRazorProject\\Pages\\Products\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "CrudRazorProject\\Pages\\Products\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\Roy\\Desktop\\C#\\CrudRazorProject\\CrudRazorProject\\Pages\\Products\\Edit.cshtml.cs",
+              "RelativeToolTip": "CrudRazorProject\\Pages\\Products\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T06:37:33.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Roy\\Desktop\\C#\\CrudRazorProject\\CrudRazorProject\\Pages\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CrudRazorProject\\Pages\\Products\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Roy\\Desktop\\C#\\CrudRazorProject\\CrudRazorProject\\Pages\\Products\\Edit.cshtml",
+              "RelativeToolTip": "CrudRazorProject\\Pages\\Products\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T06:37:33.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Roy\\Desktop\\C#\\CrudRazorProject\\CrudRazorProject\\Pages\\Products\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "CrudRazorProject\\Pages\\Products\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\Roy\\Desktop\\C#\\CrudRazorProject\\CrudRazorProject\\Pages\\Products\\Create.cshtml.cs",
+              "RelativeToolTip": "CrudRazorProject\\Pages\\Products\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T06:37:33.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Roy\\Desktop\\C#\\CrudRazorProject\\CrudRazorProject\\Pages\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "CrudRazorProject\\Pages\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Roy\\Desktop\\C#\\CrudRazorProject\\CrudRazorProject\\Pages\\Products\\Create.cshtml",
+              "RelativeToolTip": "CrudRazorProject\\Pages\\Products\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T06:37:32.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Roy\\Desktop\\C#\\CrudRazorProject\\CrudRazorProject\\appsettings.json",
+              "RelativeDocumentMoniker": "CrudRazorProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\Roy\\Desktop\\C#\\CrudRazorProject\\CrudRazorProject\\appsettings.json",
+              "RelativeToolTip": "CrudRazorProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-08T06:21:28.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CrudRazorProject.csproj",
+              "DocumentMoniker": "C:\\Users\\Roy\\Desktop\\C#\\CrudRazorProject\\CrudRazorProject\\CrudRazorProject.csproj",
+              "RelativeDocumentMoniker": "CrudRazorProject\\CrudRazorProject.csproj",
+              "ToolTip": "C:\\Users\\Roy\\Desktop\\C#\\CrudRazorProject\\CrudRazorProject\\CrudRazorProject.csproj",
+              "RelativeToolTip": "CrudRazorProject\\CrudRazorProject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-08T06:20:31.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Roy\\Desktop\\C#\\CrudRazorProject\\CrudRazorProject\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "CrudRazorProject\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Roy\\Desktop\\C#\\CrudRazorProject\\CrudRazorProject\\Models\\Product.cs",
+              "RelativeToolTip": "CrudRazorProject\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T06:20:05.101Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
